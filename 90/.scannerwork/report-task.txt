@@ -1,0 +1,6 @@
+projectKey=Shoot_The_Apple_2
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=Shoot_The_Apple_2
+ceTaskId=b17a93f4-d53c-4026-9bb0-7005dcadbbef
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b17a93f4-d53c-4026-9bb0-7005dcadbbef
